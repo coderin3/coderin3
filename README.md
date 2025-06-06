@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning computer science and engineering.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by email.
+- 📫 E-mail: hyerinpark@ewha.ac.kr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
