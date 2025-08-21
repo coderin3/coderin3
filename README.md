@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @coderin3
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning computer science and engineering.
-- 💞️ I’m looking to collaborate on ...
 - 📫 E-mail: hyerinpark@ewha.ac.kr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 😄 Velog: https://velog.io/@hyerinpark/posts
 
 <!---
 coderin3/coderin3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
