@@ -4,7 +4,7 @@
 - 📫 E-mail: hyerinpark@ewha.ac.kr
 - 😄 Velog: https://velog.io/@hyerinpark/posts
 
-<!---
-coderin3/coderin3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+<!--![coderin's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderin3&show_icons=true&theme=스타일)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=coderin)](https://solved.ac/coderin)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderin3&layout=Demo&theme=dark)
