@@ -8,3 +8,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=coderin)](https://solved.ac/coderin)
 
 <img src="http://mazandi.herokuapp.com/api?handle=coderin&theme=dark"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderin3&layout=compact)
