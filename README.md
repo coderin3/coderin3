@@ -8,4 +8,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=coderin)](https://solved.ac/coderin)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderin3)](https://github.com/coderin3/github-readme-stats)
